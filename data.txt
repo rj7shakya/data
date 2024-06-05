@@ -4,9 +4,9 @@ Jane Smith,jane_smith@company.com.np,01-4567890
 Mohan Sharma,mohan.sharma@gmail.co.nr,+977-9845612390
 Anita Gurung,anitagurung@yahoo.com,977-01-6234567
 Kumar Rai,kumar.rai@organisation.edu.np,01-5678901
-Maya Thapa,maya_thapa@hotmail.com,+977980123456
+Maya Thapa,maya_thapa@hotmail.com,+9779801234567
 Bijay Pariyar,b.pariyar@domain.com.np,977-9741234569
 Sabita Karki,sabita.karki@outlook.com,01-6789012
-Ram Magar,ram.magar@webmail.com,+977985678901
+Ram Magar,ram.magar@webmail.com,+9779856789012
 Sita Nepali,sita.nepali@icloud.com,01-4567821
 
